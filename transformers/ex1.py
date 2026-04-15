@@ -10,3 +10,5 @@ input_ids
 [2132, 572, 264, 6319, 323, 13458, 88]
 for t in input_ids:
     print(t, "\t:", tokenizer.decode(t))
+
+
